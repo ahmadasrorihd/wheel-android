@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wheel</string>
+    <string name="fetching_rpm">Fetching RPM</string>
+    <string name="rpm">%d RPM</string>
+    <string name="update_speed">Update Speed</string>
+    <string name="wheelimage">wheelImage</string>
+    <string name="_0_rpm">0 RPM</string>
+</resources>
